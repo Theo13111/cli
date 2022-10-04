@@ -206,7 +206,7 @@
   "devDependencies": {
     "@npmcli/eslint-config": "^3.1.0",
     "@npmcli/promise-spawn": "^3.0.0",
-    "@npmcli/template-oss": "4.4.1",
+    "@npmcli/template-oss": "4.4.5",
     "@octokit/rest": "^19.0.4",
     "fs-minipass": "^2.1.0",
     "licensee": "^8.2.0",
